@@ -1,0 +1,7 @@
+{
+  "name": "GeminiCord - Voice AI Chat",
+  "description": "A Discord-themed voice chat application powered by Gemini 2.5 Flash Live API for real-time, low-latency AI conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
